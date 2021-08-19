@@ -12,11 +12,11 @@ How to install and get it ingame:
   8. Now you can go back to playing the game 
   
 Music in the Resource pack:
-  Sukonjura - Nebula jf019t
-  Archie - Back Again
-  Gaia Prelude - Wizard Rings
-  S3RL (feat. Mixie Moon) - Music is my Saviour
+  Sukonjura - Nebula jf019t 
+  Archie - Back Again 
+  Gaia Prelude - Wizard Rings 
+  S3RL (feat. Mixie Moon) - Music is my Saviour 
   
 Credits:
-  Hekker: for the good ideas and additional code
-  or23_72c: for the good ideas and putting it all together in the end
+  Hekker: for the good ideas and additional code 
+  or23_72c: for the good ideas and putting it all together in the end 
