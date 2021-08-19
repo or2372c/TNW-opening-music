@@ -18,5 +18,5 @@ music for The New Warhouse opening ceremony
   4. S3RL (feat. Mixie Moon) - Music is my Saviour 
   
 //Credits:      
-  Hekker: for the good ideas and additional code  
-  or23_72c: for the good ideas and putting it all together in the end 
+    Hekker: for the good ideas and additional code  
+    or23_72c: for the good ideas and putting it all together in the end 
