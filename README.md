@@ -17,6 +17,6 @@ Music in the Resource pack:
   3. Gaia Prelude - Wizard Rings 
   4. S3RL (feat. Mixie Moon) - Music is my Saviour 
   
-Credits:    
+Credits:      
   Hekker: for the good ideas and additional code  
   or23_72c: for the good ideas and putting it all together in the end 
