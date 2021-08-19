@@ -1,7 +1,7 @@
 # TNW-opening-music
 music for The New Warhouse opening ceremony
 
-How to install and get it ingame:   
+//How to install and get it ingame:   
   1. Dowload the .zip file
   2. You go to %appdata% and find the minecraft folder 
   3. In the minecraft folder you will find a folder named "resourcepacks"
@@ -11,12 +11,12 @@ How to install and get it ingame:
   7. Find the TNW opening music V2.zip and click the arrow that points to the right.
   8. Now you can go back to playing the game 
   
-Music in the Resource pack:   
+//Music in the Resource pack:   
   1. Sukonjura - Nebula jf019t 
   2. Archie - Back Again 
   3. Gaia Prelude - Wizard Rings 
   4. S3RL (feat. Mixie Moon) - Music is my Saviour 
   
-Credits:      
+//Credits:      
   Hekker: for the good ideas and additional code  
   or23_72c: for the good ideas and putting it all together in the end 
